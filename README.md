@@ -1,7 +1,5 @@
 # Gen-AI
-# RAG-Application
 # Document Based Question-Answering System
-# Document Retrieval System with LangChain and Qdrant
 
 This project implements a document retrieval system using LangChain and Qdrant vector database, integrated with Azure OpenAI services. The system splits documents into parent and child chunks for efficient retrieval and provides a question-answering interface.
 

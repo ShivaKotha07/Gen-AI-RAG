@@ -1,7 +1,9 @@
-# Gen-AI
-# Document Based Question-Answering System
+# Gen-AI Document Based Question-Answering System
+# Overview
 
 This project implements a document retrieval system using LangChain and Qdrant vector database, integrated with Azure OpenAI services. The system splits documents into parent and child chunks for efficient retrieval and provides a question-answering interface.
+
+# Architecture 
 
 <img width="757" alt="Screenshot 2024-10-31 at 9 34 38 PM" src="https://github.com/user-attachments/assets/b955777e-92d1-4153-a1fa-4bee60212734">
 
